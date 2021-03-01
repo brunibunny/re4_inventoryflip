@@ -1,4 +1,6 @@
-# re4_inventoryflip
+# Obsolete. Use [re4_tweaks](https://github.com/brunibunny/re4_tweaks) instead.
+
+##
 
 A simple wrapper created to emulate movements from the right analog stick using the keyboard.
 Created for Resident Evil 4, to workaround the fact that the developers were not bothered to add keyboard bindings to flip items in the inventory.
